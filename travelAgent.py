@@ -14,7 +14,7 @@ llm = ChatOpenAI(model="gpt-3.5-turbo")
 query = """
 I'm going to travel to London in August 2024. 
 I want you to make a travel itinerary of 7 days for me with events that will occurs on that date 
-and the price of the ticket from São Paulo to London.
+and the price of the ticket from Israel to London.
 """
 
 
